@@ -104,4 +104,4 @@
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> my current activity </h2>
-<a href="https://github.com/tung-dnt"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=tung-dnt&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/tung-dnt"><img alt="Tung's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=tung-dnt&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
