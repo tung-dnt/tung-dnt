@@ -99,7 +99,7 @@
         <p align="center">
           <a href="https://github.com/tung-dnt/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tung-dnt&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=tung-dnt&theme=dark&date_format=j%2Fn%5B%2FY%5D" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=tung-dnt&theme=dark&date_format=j%2Fn%5B%2FY%5D&hide_border=true" />
           </a>
        </p>
      <br>
