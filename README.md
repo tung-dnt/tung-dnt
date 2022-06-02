@@ -9,8 +9,7 @@
        alt="snake" /></a>
 </div>
 
-<details>
-  <summary>🧮 about</summary>
+<summary>🧮 about</summary>
 <div>
 <h2 align="center">🧮 About this Account</h2>
  <p align="center">
@@ -30,10 +29,8 @@
      alt="repos" /></a>
  </p>
 </div>
-</details>
 
-<details>
-  <summary>🌏 global</summary>
+<summary>🌏 global</summary>
 <div>
 <h2 align="center"> Wanna learn more something about me? </h2>
 </div>
@@ -86,9 +83,7 @@
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ```
-</details>
 
-<details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
@@ -105,11 +100,8 @@
        </p>
      <br>
   </div>    
-</details>
 
-<details>
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> my current activity </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</details>
